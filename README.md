@@ -1,7 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Desafio do bootcamp, Fazer a pagina inicial do instagram usando somente CSS e HMTL
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
-
+author SpruceGabriela, apenas implementei um slide criando keyframes, usei novas imagens e modifiquei o leiyout;
 ### Os requisitos são:
 
 * [HTML básico](https://www.w3schools.com/html/)
